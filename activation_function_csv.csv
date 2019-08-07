@@ -1,0 +1,10 @@
+index;optimizer;path;folder_name;model_name;loss_history;generator;hidden_layers;neurons
+0;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-relu-relu-linear-sgd/;my_MODEL1-relu-relu-linear-sgd_gen0.h5;my_MODEL1-relu-relu-linear-sgd_gen_LOSS0.csv;1;2;20
+1;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-relu-relu-linear-sgd/;my_MODEL1-relu-relu-linear-sgd_gen1.h5;my_MODEL1-relu-relu-linear-sgd_gen_LOSS1.csv;1;2;20
+2;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-relu-relu-linear-sgd/;my_MODEL1-relu-relu-linear-sgd_gen2.h5;my_MODEL1-relu-relu-linear-sgd_gen_LOSS2.csv;1;2;20
+3;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-sigmoid-sigmoid-linear-sgd/;my_MODEL1-sigmoid-sigmoid-linear-sgd_gen0.h5;my_MODEL1-sigmoid-sigmoid-linear-sgd_gen_LOSS0.csv;1;2;20
+4;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-sigmoid-sigmoid-linear-sgd/;my_MODEL1-sigmoid-sigmoid-linear-sgd_gen1.h5;my_MODEL1-sigmoid-sigmoid-linear-sgd_gen_LOSS1.csv;1;2;20
+5;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-sigmoid-sigmoid-linear-sgd/;my_MODEL1-sigmoid-sigmoid-linear-sgd_gen2.h5;my_MODEL1-sigmoid-sigmoid-linear-sgd_gen_LOSS2.csv;1;2;20
+6;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-tanh-tanh-linear-sgd/;my_MODEL1-tanh-tanh-linear-sgd_gen0.h5;my_MODEL1-tanh-tanh-linear-sgd_gen_LOSS0.csv;1;2;20
+7;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-tanh-tanh-linear-sgd/;my_MODEL1-tanh-tanh-linear-sgd_gen1.h5;my_MODEL1-tanh-tanh-linear-sgd_gen_LOSS1.csv;1;2;20
+8;sgd;/Users/patryklaskowski/Desktop/GitHub/ANN_for_Apple_stock_price_prediction/;MODEL1-tanh-tanh-linear-sgd/;my_MODEL1-tanh-tanh-linear-sgd_gen2.h5;my_MODEL1-tanh-tanh-linear-sgd_gen_LOSS2.csv;1;2;20
